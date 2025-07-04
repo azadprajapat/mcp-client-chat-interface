@@ -1,4 +1,9 @@
+
 # MCP Healthcare Client - Streamlit UI
+
+<p align="center">
+  <img src="statics/interface.png" alt="UI Screenshot" width="600"/>
+</p>
 
 This project is a Streamlit-based webapp that acts as an MCP client using the `langchain-mcp-adapters` and `langgraph` Python modules. It connects to an MCP server, provides a chat interface, streams responses, and execute MCP tool (using LangChain and OpenAI).
 
