@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-mcp-adapters
+langgraph
+langchain-openai
+openai
+python-dotenv
